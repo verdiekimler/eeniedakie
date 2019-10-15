@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eithahkoph.shannanlieb.com/sitemap.xml
